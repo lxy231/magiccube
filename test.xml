@@ -1,0 +1,8 @@
+<Cube>
+    <Face name="Front" color="White" />
+    <Face name="Back" color="Yellow" />
+    <Face name="Left" color="Blue" />
+    <Face name="Right" color="Green" />
+    <Face name="Top" color="Red" />
+    <Face name="Bottom" color="Orange" />
+</Cube>
